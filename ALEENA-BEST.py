@@ -442,7 +442,7 @@ if __name__=='__main__':
 
 	except:pass
 
-	os.system("xdg-openhttps://www.facebook.com/Aleena.tricker")
+
 
 	
 
