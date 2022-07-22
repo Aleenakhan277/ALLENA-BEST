@@ -316,7 +316,7 @@ def passwrd():
 
 	
 
-		for yuzong in id2:
+		
 
 			idf,nmf = yuzong.split('|')[0],yuzong.split('|')[1].lower()
 
