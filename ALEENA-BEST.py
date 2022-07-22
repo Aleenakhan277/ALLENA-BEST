@@ -322,35 +322,15 @@ def passwrd():
 
 			
 
-			pwv = []
+			
 
-			if len(nmf)<6:
+			
 
-				if len(frs)<3:
+				
 
-					pass
+					
 
-				else:
-
-					pwv.append(nmf)
-
-			else:
-
-				if len(frs)<3:
-
-					pwv.append(nmf)
-
-				else:
-
-					pwv.append(nmf)
-
-			if 'api' in method:
-
-				pool.submit(crack2,idf,pwv)
-
-			else:
-
-				pool.submit(crack2,idf,pwv)
+				
 
 	print('')
 
