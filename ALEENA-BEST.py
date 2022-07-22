@@ -294,7 +294,7 @@ def setting():
 
 		
 
-	elif fast in ['t','T']:
+	
 
 		os.system("")
 
