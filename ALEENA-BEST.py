@@ -318,7 +318,7 @@ def passwrd():
 
 		
 
-			idf,nmf = yuzong.split('|')[0],yuzong.split('|')[1].lower()
+		
 
 			frs = nmf.split(' ')[0]
 
