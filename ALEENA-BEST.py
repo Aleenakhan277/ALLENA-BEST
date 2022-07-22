@@ -320,7 +320,7 @@ def passwrd():
 
 		
 
-			frs = nmf.split(' ')[0]
+			
 
 			pwv = []
 
