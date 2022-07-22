@@ -20,23 +20,23 @@ try:
 
 		exit('[✓] Internet Eror ,Install Manual (pip install rich)')
 
-from rich.table import Table as me
+
 
 from rich.console import Console as sol
 
 from bs4 import BeautifulSoup as parser
 
-from concurrent.futures import ThreadPoolExecutor as tred
 
-from rich.console import Group as gp
 
-from rich.panel import Panel as nel
 
-from rich import print as cetak
 
-from rich.markdown import Markdown as mark
 
-from rich.columns import Columns as col
+
+
+
+
+
+
 
 try:ugen = open('user.txt','r').read().splitlines()
 
