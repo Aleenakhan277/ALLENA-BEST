@@ -204,7 +204,7 @@ def menu(): #Bilo
 
 	if farhan in ['1','01']:
 
-		File2()
+		
 
 	elif farhan in ['0','00']:
 
@@ -232,7 +232,7 @@ def File2():
 
 					id.append(line.strip())
 
-				setting()
+				
 
 			except IOError:
 
@@ -292,7 +292,7 @@ def setting():
 
 	if fast in ['y','Y']:
 
-		passwrd()
+		
 
 	elif fast in ['t','T']:
 
@@ -314,7 +314,7 @@ def passwrd():
 
 	print("""%s \x1b[92;1m===================================>\x1b[92;1m """%(h))
 
-	with tred(max_workers=30) as pool:
+	with tre
 
 		for yuzong in id2:
 
@@ -464,6 +464,6 @@ if __name__=='__main__':
 
 	os.system("xdg-openhttps://www.facebook.com/Aleena.tricker")
 
-	menu()
+	
 
 	
